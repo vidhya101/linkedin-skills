@@ -119,6 +119,8 @@ Humanizer output has its own fingerprint. Before returning, re-read the result o
 (b) Did Pass 3 add a framed confession, a sincerity announcement, or a hedge the author never wrote? If yes, strip the frame and keep only the flat fact, or remove the insertion.
 (c) Did scrubbing flatten the author's voice: uniform tone, no reaction, no concrete detail left, every em dash gone, every triad gone, every long sentence chopped? If yes, restore what the author had. Zero em dashes and zero triads is a tell in its own right.
 
+Exception to (c): if `../../references/voice-profile.md` has `filled: yes` and its rules ban em dashes, zero em dashes is correct. Remove every em dash and never restore one.
+
 If any answer is yes, dial back rather than scrub harder. Edits must be proportional to real problems: a clean draft gets two or three touches, not a fixed quota. When in doubt whether a pattern is the author or the model, leave it.
 
 ## Non-negotiable rules
